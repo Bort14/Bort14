@@ -17,7 +17,7 @@ Based in Madrid, Spain · Building useful tools and reliable software.
 
 I'm a software engineer focused on **C#/.NET, backend systems, Azure and automation**. I enjoy turning repetitive tasks into tools people can actually use — from APIs and integrations to desktop utilities.
 
-- Building with **.NET, C#, TypeScript and Node.js**
+- Specialized in **C#/.NET backend development, REST APIs, Azure cloud services and automation.**
 - Working with **Azure, SQL Server and PostgreSQL**
 - Interested in **clean architecture, integrations and developer tools**
 - Exploring open-source projects with practical applications
